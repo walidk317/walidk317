@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @walidk317
 - 👀 I’m interested in Dotnet Development
 - 🌱 I’m currently learning AngularJs/Web API/Blazor.net
+- 🌱 Currently getting trained on Microsoft Business Central and AL.
 - 💞️ I’m looking to collaborate on Dotnet Projects
 - 📫 How to reach me (email- walidkadri1177@gmail.com)
 
